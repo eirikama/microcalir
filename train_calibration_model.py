@@ -24,7 +24,7 @@ optimizer = torch.optim.RMSprop(cal_model.parameters(), lr=lr)
 
 
 # load training data (just small set as minimal example)
-data = np.load('../lipid_hts_wn.npz')
+data = np.load('data/lipid_hts_wn.npz')
 macro_spectra = data['hts']            # macroscopic spectra
 reference_analysis = data['lipid']      # reference analysis values
 wn = data['wn']                        # wavenumbers
