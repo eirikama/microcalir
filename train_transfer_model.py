@@ -20,7 +20,7 @@ optimizer = torch.optim.RMSprop(transfer_model.parameters(), lr=lr)
 
 
 # load training data (just small set as minimal example)
-data = np.load('../fpah_hts_wn.npz')
+data = np.load('data/fpah_hts_wn.npz')
 
 hts_spectra = data['hts']        # macroscopic spectra
 fpah_spectra = data['fpah']      # homogonized microscopic spectra
