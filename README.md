@@ -1,4 +1,4 @@
-Microcalibration for Infrared Spectroscopy
+# Microcalibration for Infrared Spectroscopy
 
 <img border="0" align="Center" src="microcalibration_illustration.svg" alt="Microcalibration illustration" width=100%/>
 
