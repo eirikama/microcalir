@@ -2,7 +2,6 @@
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-green)](https://creativecommons.org/licenses/by/4.0/)
-[![Paper](https://img.shields.io/badge/paper-Analytical%20Chemistry%202025-red)](https://doi.org/10.1021/acs.analchem.5c03049)
 [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facs.analchem.5c03049-orange)](https://doi.org/10.1021/acs.analchem.5c03049)
 
 
